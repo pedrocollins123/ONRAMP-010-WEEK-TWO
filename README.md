@@ -1,4 +1,4 @@
-# ONRAMP-WEEK-TWO
+# ONRAMP-010-WEEK-TWO
 
 Your task is to build out the project to the designs inside the `/design` folder and get it looking as close to the design as possible using HTML, CSS  and Javascript. You will find both a mobile and a desktop version of the design. 
 
